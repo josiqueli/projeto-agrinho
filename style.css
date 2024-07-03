@@ -1,8 +1,8 @@
 body{
     background-color: color-mix(in srgb, color percentage, color percentage);
+    color:#333;
     font-family: cursive;
     margin: 0px;
     padding: 0;
     margin-top: 3%;
-
 }
