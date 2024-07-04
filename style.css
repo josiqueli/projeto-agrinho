@@ -16,27 +16,6 @@ main {
     padding: 20px;
 }
 
-/* Slideshow de Imagens */
-.slideshow-container {
-    max-width: 600px;
-    position: relative;
-    margin: auto;
-}
-
-.mySlides {
-    display: none;
-}
-
-.mySlides img {
-    width: 100%;
-    height: auto;
-}
-
-/* Efeitos do slideshow */
-.fade {
-    animation-name: fade;
-    animation-duration: 1.5s;
-}
 
 
 
