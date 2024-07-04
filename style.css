@@ -1,10 +1,61 @@
-body{
-    background-color: color-mix(in srgb, color percentage, color percentage);
-    color:#ded7d7;
-    font-family: cursive;
-    margin: 0px;
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
     padding: 0;
-    margin-top: 3%;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Slideshow de Imagens */
+.slideshow-container {
+    max-width: 600px;
+    position: relative;
+    margin: auto;
+}
+
+.mySlides {
+    display: none;
+}
+
+.mySlides img {
+    width: 100%;
+    height: auto;
+}
+
+/* Efeitos do slideshow */
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
 }
 
 
