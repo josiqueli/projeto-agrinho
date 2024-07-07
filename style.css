@@ -25,11 +25,15 @@ body{
     font-size: 32px;
 }
 
+.container {
+    display: flex;
+}
+
 .container-flex img {
-    display: inline-flex;
-    width: 45%;
+    max-width: 45%;
     height: 15%;
 }
+
 
 .texto-sobreposto {
     position: absolute;
