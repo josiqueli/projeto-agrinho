@@ -37,7 +37,7 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: rgba(255, 255, 255, 0); /* Fundo semi-transparente */
-    color: white;
+    color: var(--color);
     padding: 20px;
     text-align: left;
 }
