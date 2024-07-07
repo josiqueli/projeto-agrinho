@@ -26,10 +26,10 @@ body{
 }
 
 .container img {
-    display: flex;
-    width: 45%;
-    height: auto;
-    position-visibility: left-right;
+    display: inline-block;
+    width: 50%; 
+    vertical-align: top; 
+    box-sizing: border-box; 
 }
 
 
