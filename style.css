@@ -9,8 +9,6 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-
-
 .conteudo-principal{
     display: flex;
     flex-direction: column;
@@ -27,16 +25,28 @@ body{
     font-size: 32px;
 }
 
-.titulo-principal span{
-    color: blueviolet;
+.container img {
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
-.abas-texto{
-    background-color: var(--cor-de-fundo);
-    padding: 40px;
-    border-radius: 0 0 40px 40px;
+.texto-sobreposto {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo semi-transparente */
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 
+.texto-sobreposto h2 {
+    margin-top: 0;
+}
 
-
+.texto-sobreposto p {
+    margin-bottom: 0;
+}
 
