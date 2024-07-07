@@ -29,6 +29,7 @@ body{
     display: flex;
     width: 45%;
     height: auto;
+    position-visibility: left-right;
 }
 
 
