@@ -1,10 +1,11 @@
 :root{
-    --cor-de-fundo: #dbc07c;
+    --cor-de-fundo: #b8ae94;
+    --color: #000;
 }
 
 body{
     background-color: var(--cor-de-fundo);
-    color:cadetblue;
+    color: var(--color);
     font-family: 'Courier New', Courier, monospace;
 }
 
