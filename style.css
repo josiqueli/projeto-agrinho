@@ -34,7 +34,7 @@ body{
 .texto-sobreposto {
     position: absolute;
     top: 70%;
-    left: 100%;
+    left: 10%;
     transform: translate(-50%, -50%);
     background-color: rgba(255, 255, 255, 0); /* Fundo semi-transparente */
     color: var(--color);
