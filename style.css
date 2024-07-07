@@ -9,10 +9,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-.img{
-    width: 15px;
-    image-orientation: left;
-}
+
 
 .conteudo-principal{
     display: flex;
