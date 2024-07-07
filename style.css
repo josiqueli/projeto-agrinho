@@ -25,11 +25,8 @@ body{
     font-size: 32px;
 }
 
-.container {
+.container img {
     display: flex;
-}
-
-.container-flex img {
     max-width: 45%;
     height: 15%;
 }
