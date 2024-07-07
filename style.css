@@ -28,7 +28,7 @@ body{
 .container img {
     display: block;
     width: 45%;
-    height: fit-content;
+    height: 15%;
 }
 
 .texto-sobreposto {
