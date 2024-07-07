@@ -28,7 +28,7 @@ body{
 .container img {
     display: flex;
     max-width: 45%;
-    height: 15%;
+    height: auto;
 }
 
 
