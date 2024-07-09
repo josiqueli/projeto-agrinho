@@ -48,7 +48,9 @@ body{
     margin-top: 17px; 
 }
 
-@media screen {
-    
+@media screen and (max-width:768px){
+    .conteudo-principal{
+        width: 100%;
+    }
 }
 
