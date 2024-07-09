@@ -6,9 +6,10 @@
 header{
     background-color: var(--cor-de-fundo);
     padding: auto;
-    text-align: center;
-    box-shadow: 0 2px 4px;
-    border-bottom: 1px solid #ccc;
+    text-align: left;
+    height: 17%;
+    box-shadow: 0 0 0;
+    border-bottom: 1px solid #cccccc73;
 }
 
 body{
