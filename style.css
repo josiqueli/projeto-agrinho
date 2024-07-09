@@ -41,12 +41,13 @@ body{
 
 .container img {
     display: inline-block;
-    max-width: 45%; 
+    max-width: 25%; 
     height: auto;
     vertical-align: top; 
     box-sizing: border-box;
     margin-top: 17px; 
     margin-right: 75%;
+    box-shadow: none;
 }
 
 .texto{
