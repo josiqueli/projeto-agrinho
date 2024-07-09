@@ -25,8 +25,12 @@ body{
     font-size: 32px;
 }
 
+.container{
+    font-size: 0;
+}
+
 .container img {
-    display: inline-block;
+    display: ;
     max-width: 50%; 
     height: auto;
     vertical-align: top; 
