@@ -1,1 +1,0 @@
-Foto da Murilo Cardoso do <a href="https://www.shopify.com/br/stock-photos/texturas?utm_campaign=photo_credit&amp;utm_content=Fotos+gr%C3%A1tis+de+Uvas+verdes+maduras+na+videira+ensolarada&amp;utm_medium=referral&amp;utm_source=credit">Burst</a>
