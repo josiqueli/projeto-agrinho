@@ -51,7 +51,7 @@ body{
 .texto{
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
-    text-align: right, top;
+    text-align: justify;
     
 }
 @media screen and (max-width:768px){
