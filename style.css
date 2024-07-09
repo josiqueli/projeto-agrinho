@@ -30,31 +30,11 @@ body{
 }
 
 .container img {
-    display: ;
+    display: inline-block;
     max-width: 50%; 
     height: auto;
     vertical-align: top; 
     box-sizing: border-box; 
-}
-
-
-.texto-sobreposto {
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    transform: translate(-50%, -50%);
-    color: var(--color);
-    padding: 40px;
-    text-align: left;
-    margin-left: 07%;
-}
-
-.texto-sobreposto h2 {
-    margin-top: 0;
-}
-
-.texto-sobreposto p {
-    margin-bottom: 0;
 }
 
 @media screen {
