@@ -41,7 +41,7 @@ body{
 
 .container img {
     display: inline-block;
-    max-width: 50%; 
+    max-width: 25%; 
     height: auto;
     vertical-align: top; 
     box-sizing: border-box;
