@@ -3,6 +3,11 @@
     --color: #455f20; 
 }
 
+header{
+    background-color: var(--cor-de-fundo);
+    padding: auto;
+}
+
 body{
     background-color: var(--cor-de-fundo);
     color: var(--color);
