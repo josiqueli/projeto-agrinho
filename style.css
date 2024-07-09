@@ -54,7 +54,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
     text-align: right;
-    margin-right: 45%;
+    margin-right: 15%;
+    margin-top: 17px;
 }
 @media screen and (max-width:768px){
     .conteudo-principal{
