@@ -33,7 +33,7 @@ body{
 }
 
 
-.texto-sobreposto {
+.imagem-sobreposta {
     position: absolute;
     top: 20%;
     left: 10%;
@@ -44,11 +44,11 @@ body{
     margin-left: 07%;
 }
 
-.texto-sobreposto h2 {
+.imagem-sobreposta h2 {
     margin-top: 0;
 }
 
-.texto-sobreposto p {
+.imagem-sobreposta p {
     margin-bottom: 0;
 }
 
