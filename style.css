@@ -33,26 +33,26 @@ body{
 }
 
 
-.imagem-sobreposta {
+.texto-sobreposto {
     position: absolute;
     top: 20%;
     left: 10%;
     transform: translate(-50%, -50%);
     color: var(--color);
     padding: 40px;
-    text-align: center;
+    text-align: left;
     margin-left: 07%;
 }
 
-.imagem-sobreposta h2 {
+.texto-sobreposto h2 {
     margin-top: 0;
 }
 
-.imagem-sobreposta p {
+.texto-sobreposto p {
     margin-bottom: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen {
+    
 }
-
 
