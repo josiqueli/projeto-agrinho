@@ -1,5 +1,5 @@
 :root{
-    --cor-de-fundo:  #77746d ;
+    --cor-de-fundo:  #d8c9a5 ;
     --color: #455f20; 
 }
 
@@ -50,8 +50,9 @@ body{
 
 .texto{
     font-family: 'Courier New', Courier, monospace;
-    font-size: medium;
-    text-align: right;
+    font-size: large;
+    text-align: right, top;
+    
 }
 @media screen and (max-width:768px){
     .conteudo-principal{
