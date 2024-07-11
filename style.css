@@ -15,12 +15,43 @@ header {
     text-align: left;
     height: 25px;
     font-size: 11px;
+    box-shadow: none;
 }
 
-.logo {
-    width: 200px; 
-    height: auto; 
-    display: block; 
-    margin: 0 auto; 
+.titulo-principal {
+    text-align: left;
+    width: 100px;
+    font-size: 32px;
 }
 
+.container{
+    font-size: 0;
+}
+
+.container img {
+    display: block;
+    width: 100px;
+    height: auto;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: auto;
+}
+
+.texto-sobreposto{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 07%;
+    transform: translate(-50, -50);
+    color: var(--cor-de-texto);
+    padding: 40px;
+    text-align: left;
+}
+
+.texto-sobreposto h1{
+    margin-top: 0%;
+    margin-left: 07%;
+}
+
+.texto-sobreposto p{
+    margin-bottom: 0;
+}
