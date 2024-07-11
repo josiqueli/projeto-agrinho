@@ -55,7 +55,7 @@ body{
     margin-left: 07%;
 }
 
-.texto-sobreposto h2 {
+.texto-sobreposto h1 {
     margin-top: 15px;
     color: var(--cor-de-texto);
 }
