@@ -50,6 +50,25 @@ body{
     box-shadow: none;
 }
 
+.texto-sobreposto {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: var(--color);
+    padding: 40px;
+    text-align: left;
+    margin-left: 07%;
+}
+
+.texto-sobrepostoh2 {
+    margin-top: 0;
+}
+
+.texto-sobreposto p {
+    margin-bottom: 0;
+}
+]
 .texto{
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
