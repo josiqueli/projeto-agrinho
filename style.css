@@ -1,2 +1,17 @@
+:root {
+    --cor-de-fundo: #242b2f;
+    --cor-de-texto: #5a7b2c;
+}
 
+body {
+    background-color: var(--cor-de-fundo);
+    margin: 0;
+    padding: 0;
+}
+
+.imagem-inicial {
+    width: 60%;
+    height: auto;
+    display: block;
+}
 
