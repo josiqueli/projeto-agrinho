@@ -1,77 +1,52 @@
-:root {
-    --cor-de-fundo: #242b2f;
-    --cor-de-texto: #5a7b2c;
-}
+:root{
+        --cor-de-fundo:  #FAF9F6 ;
+        --color: #455f20;
+    }
 
-body {
-    background-color: var(--cor-de-fundo);
-    color: var(--cor-de-texto);
-    font-family: 'Courier New', Courier, monospace;
-}
+    body{
+        background-color: var(--cor-de-fundo);
+        color: var(--color);
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .conteudo-principal{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: left;
+        max-width: 1200px;
+        width: 100%;
+        margin: auto;
+    }
+    
+    .titulo-principal{
+        text-align: left;
+        width: 100%;
+        font-size: 32px;
+    }
+    
+    .container img {
+     display: inline-block;
+        width: 50%; 
+        vertical-align: top; 
+        box-sizing: border-box; 
+    }
 
-header {
-    background-color: var(--cor-de-fundo);
-    padding: auto;
-    text-align: left;
-    height: 25px;
-    font-size: 11px;
-    box-shadow: 0 0 0;
-    border-bottom: 1px solid #cccccc00;
-}
-
-.conteudo-principal{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: left;
-    max-width: 1200px;
-    width: 100%;
-    margin: auto;
-}
-
-.titulo-principal {
-    text-align: left;
-    width: 100px;
-    font-size: 32px;
-}
-
-.container{
-    font-size: 0;
-}
-
-.container img {
-    display: block;
-    width: 100px;
-    height: auto;
-    box-sizing: border-box;
-    margin: auto;
-    margin-top: auto;
-}
-
-.texto-sobreposto{
-    position: absolute;
-    top: 20%;
-    left: 10%;
-    transform: translate(-50, -50);
-    color: var(--cor-de-texto);
-    padding: 40px;
-    text-align: left;
-    margin-left: 07%;
-}
-
-.texto-sobreposto h1{
-    margin-top: 0%;
-    margin-left: 07%;
-}
-
-.texto-sobreposto p{
-    margin-bottom: 0;
-}
-
-.texto{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: medium;
-    text-align: right;
-    margin-right: 20%;
-    margin-top: 0;
-}
+    .texto-sobreposto {
+        position: absolute;
+        top: 20%;
+        left: 10%;
+        transform: translate(-50%, -50%);
+        color: var(--color);
+        padding: 40px;
+        text-align: left;
+        margin-left: 07%;
+    }
+ 
+    .texto-sobreposto h2 {
+        margin-top: 0;
+    }
+ 
+    .texto-sobreposto p {
+        margin-bottom: 0;
+    }
