@@ -70,6 +70,12 @@ body{
     margin-bottom: 0;
 }
 
+.video-container {
+    max-width: 800%;
+    height: 0, auto;
+    margin: auto;
+    position: static;
+}
 .texto{
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
