@@ -9,9 +9,17 @@ body {
     padding: 0;
 }
 
+header {
+    background-color: var(--cor-de-fundo);
+    padding: auto;
+    text-align: left;
+    height: 25px;
+    font-size: 11px;
+}
+
 .imagem-inicial {
     width: 100%;
-    height: auto;
+    height: 30%;
     display: block;
 }
 
