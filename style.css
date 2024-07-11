@@ -36,7 +36,7 @@
         left: 50%;
         transform: translate(-50%, -50%);
         text-align: center;
-        color: white;
+        color: var(--color);
     }
 
     .texto-sobreposto h1 {
