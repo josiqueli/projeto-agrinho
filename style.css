@@ -50,6 +50,12 @@ body{
     box-shadow: none;
 }
 
+.imagem-principal{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
 .texto-sobreposto {
     position: absolute;
     top: 20%;
