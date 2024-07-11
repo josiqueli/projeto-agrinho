@@ -9,6 +9,13 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
+header {
+    background-color: var(--cor-de-fundo);
+    padding: auto;
+    text-align: left;
+    height: 25px;
+}
+
 .header-image {
     background-color: var(--cor-de-fundo);
     padding: auto;
