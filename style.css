@@ -1,5 +1,5 @@
 :root{
-    --cor-de-fundo:  #21292e;
+    --cor-de-fundo:  #242b2f;
     --color: #5a7b2c; 
 }
 
@@ -69,7 +69,7 @@ body{
 .texto-sobreposto p {
     margin-bottom: 0;
 }
-]
+
 .texto{
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
