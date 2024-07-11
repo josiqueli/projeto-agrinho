@@ -1,6 +1,12 @@
 :root{
     --cor-de-fundo:  #242b2f;
-    --cor-de-texto: #5a7b2c; 
+    --color: #5a7b2c; 
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--color);
+    font-family: 'Courier New', Courier, monospace;
 }
 
 header{
@@ -10,12 +16,7 @@ header{
     height: 25px;
     font-size: 11px;
     box-shadow: 0 0 0;
-}
-
-body{
-    background-color: var(--cor-de-fundo);
-    color: var(--cor-de-texto);
-    font-family: 'Courier New', Courier, monospace;
+    border-bottom: 1px solid #cccccc00;
 }
 
 .conteudo-principal{
@@ -55,15 +56,14 @@ body{
     top: 20%;
     left: 10%;
     transform: translate(-50%, -50%);
-    color: var(--cor-de-texto);
+    color: var(--color);
     padding: 40px;
     text-align: left;
     margin-left: 07%;
 }
 
-.texto-sobreposto h2 {
-    margin-top: 15px;
-    color: var(--cor-de-texto);
+.texto-sobreposto h1 {
+    margin-top: 0;
 }
 
 .texto-sobreposto p {
