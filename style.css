@@ -15,7 +15,8 @@ header {
     text-align: left;
     height: 25px;
     font-size: 11px;
-    box-shadow: none;
+    box-shadow: 0 0 0;
+    border-bottom: 1px solid #cccccc00;
 }
 
 .titulo-principal {
