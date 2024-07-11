@@ -5,8 +5,8 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    margin: 0;
-    padding: 0;
+    color: var(--cor-de-texto);
+    font-family: 'Courier New', Courier, monospace;
 }
 
 header {
@@ -17,6 +17,16 @@ header {
     font-size: 11px;
     box-shadow: 0 0 0;
     border-bottom: 1px solid #cccccc00;
+}
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
 }
 
 .titulo-principal {
@@ -40,12 +50,13 @@ header {
 
 .texto-sobreposto{
     position: absolute;
-    margin-top: 20%;
-    margin-left: 07%;
+    top: 20%;
+    left: 10%;
     transform: translate(-50, -50);
     color: var(--cor-de-texto);
     padding: 40px;
     text-align: left;
+    margin-left: 07%;
 }
 
 .texto-sobreposto h1{
@@ -55,4 +66,12 @@ header {
 
 .texto-sobreposto p{
     margin-bottom: 0;
+}
+
+.texto{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: right;
+    margin-right: 20%;
+    margin-top: 0;
 }
