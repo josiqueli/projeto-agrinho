@@ -19,8 +19,8 @@
         }
 
         header img{
-            width: 900px;
-            height: 700000px;
+            width: 100%;
+            height: 25px;
             object-fit: cover;
         }
         
