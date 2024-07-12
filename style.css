@@ -19,13 +19,9 @@
         }
 
         header img{
-            display: flex;
-            width: 100%;
+            width: 8%;
             height: 2%;
             object-fit: cover;
-            margin: 0 auto;
-            padding: auto;
-            box-shadow: none;
         }
         
     .conteudo-principal{
@@ -46,8 +42,8 @@
 
     .texto-sobreposto {
         position: absolute;
-        top: 50%;
-        left: 50%;
+        top: 10%;
+        left: 10%;
         transform: translate(-50%, -50%);
         text-align: center;
         color: var(--cor-de-texto);
