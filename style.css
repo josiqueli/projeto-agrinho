@@ -24,14 +24,15 @@
             object-fit: cover;
             margin: auto;
         }
+
+    .container img {
+        width: 50%;
+        height: 97px;
+        object-position: left;
+    }
     
-        img {
-            width: 45%;
-            height: 47px;
-            object-position: left;
-        }
     .h1 {
-        text-align: center, right;
+        text-align: right;
         width: 100%;
         font-size: 32px;
     }
