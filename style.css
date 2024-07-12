@@ -49,7 +49,7 @@ body{
     .container p{
         display: inline-block;
         margin-left: 5px;
-        text-align: justify;
+        text-align: right;
     }
         
     }
