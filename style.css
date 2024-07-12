@@ -15,13 +15,13 @@
             margin: auto;
             height: 15%;
             font-size: medium;
-            image-orientation: flip;
         }
 
         header img{
             width: 100%;
             height: 259px;
             object-fit: cover;
+            margin: auto;
         }
         
     .conteudo-principal{
