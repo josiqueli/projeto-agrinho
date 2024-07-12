@@ -12,7 +12,7 @@
         header {
             background-color: var(--cor-de-fundo);
             padding: auto;
-            align-items: first baseline;
+            margin: auto;
             height: 15%;
             font-size: medium;
             image-orientation: flip;
