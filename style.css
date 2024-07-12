@@ -33,13 +33,8 @@
         width: 100%;
         font-size: 32px;
     }
-    
-    .container {
-        position: relative;
-        width: 100%;
-    }
 
-    .container img{
+    header img{
         display: flex;
         width: 100%;
         height: 50%;
