@@ -15,8 +15,7 @@
             background-color: var(--cor-de-fundo);
             padding: auto;
             margin: 0;
-            height: 75%;
-            box-shadow: #455f20;
+            height: auto;
         }
 
         header img{
@@ -30,4 +29,8 @@
         text-align: left;
         width: 100%;
         font-size: 32px;
+    }
+
+    @media screen {
+        
     }
