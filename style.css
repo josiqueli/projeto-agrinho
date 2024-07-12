@@ -9,6 +9,7 @@
         background-color: var(--cor-de-fundo);
         color: var(--cor-de-texto);
         font-family: Playfair;
+    }
     
         header {
             background-color: var(--cor-de-fundo);
@@ -24,10 +25,8 @@
             margin: 0;
         }
     
-    .titulo-principal{
+    .h1 {
         text-align: left;
         width: 100%;
         font-size: 32px;
     }
-
-    
