@@ -25,6 +25,16 @@ body{
         margin: 0;
     }
 
+    .container {
+        font-size: 0;
+    }
+
+    .container img{
+        display: block;
+        width: 15%;
+        height: auto;
+        margin-top: 17px;
+    }
 .h1 {
     text-align: left;
     width: 100%;
