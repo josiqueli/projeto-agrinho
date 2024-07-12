@@ -46,10 +46,9 @@ body{
         margin-top: 9px;
     }
 
-    .container p{
-        display: inline-block;
-        margin-left: 5px;
-        text-align: right;
-    }
+   .texto p{
+    padding: right;
+    text-align: center;
+   }
         
     }
