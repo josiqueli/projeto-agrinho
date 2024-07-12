@@ -9,6 +9,15 @@
         font-family: 'Courier New', Courier, monospace;
     }
     
+        header {
+            background-color: var(--cor-de-fundo);
+            padding: auto;
+            text-align: center;
+            height: 25px;
+            font-size: medium;
+            box-shadow: none;
+        }
+
     .conteudo-principal{
         display: flex;
         flex-direction: row;
