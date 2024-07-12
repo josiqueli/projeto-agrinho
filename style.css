@@ -1,11 +1,11 @@
 :root{
         --cor-de-fundo:  #FAF9F6 ;
-        --color: #455f20;
+        --cor-de-texto: #455f20;
     }
 
     body{
         background-color: var(--cor-de-fundo);
-        color: var(--color);
+        color: var(--cor-de-texto);
         font-family: 'Courier New', Courier, monospace;
     }
     
@@ -36,7 +36,7 @@
         left: 50%;
         transform: translate(-50%, -50%);
         text-align: center;
-        color: var(--color);
+        color: var(--cor-de-texto);
     }
 
     .texto-sobreposto h1 {
