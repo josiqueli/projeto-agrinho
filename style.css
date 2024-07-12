@@ -50,6 +50,7 @@ body{
     .texto p {
         padding-right: 20px; 
         text-align: right;
+        align-items: right;
       }
    
         
