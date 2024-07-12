@@ -34,18 +34,21 @@ body{
     }
 
     .container {
-        font-size: 0;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
     }
 
-    .container img{
-        display: block;
+    img{
+        display: inline-block;
         width: 45%;
         height: auto;
         margin-top: 9px;
     }
 
     p{
-        text-align: justify;
+        display: inline-block;
+
     }
 
     @media screen and (min-width:768px) and (max-width:1920px) {
