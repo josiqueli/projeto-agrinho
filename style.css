@@ -35,20 +35,22 @@ body{
         margin-top: 5px;
     }
 
-    .container {
-        font-size: 0;
-    }
-
     .container img{
         display: inline-block;
         width: 45%;
         height: auto;
         margin-top: 9px;
     }
-
-   .texto p{
-    padding: right;
-    align-items: flex-end;
-   }
+    
+    .texto {
+        display: inline-block; 
+        vertical-align: top; 
+      }
+      
+    .texto p {
+        padding-right: 20px; 
+        text-align: right;
+      }
+   
         
     }
