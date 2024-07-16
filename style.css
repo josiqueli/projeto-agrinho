@@ -27,6 +27,15 @@ body{
         margin: 0;
     }
 
+    .texto-sobreposto{
+        position: absolute;
+        top: 15%;
+        transform: translate(-50%, -50%);
+        color: var(--cor-de-texto);
+        padding: 40px;
+        text-align: center;
+    }
+    
     .h1 {
         text-align: left;
         width: 100%;
