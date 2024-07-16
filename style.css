@@ -44,7 +44,7 @@ body{
 
     .container{
         display: flex;
-        gap: 30px;
+        gap: 9px;
     }
 
     .texto {
