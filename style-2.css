@@ -3,7 +3,7 @@
 @media screen and (min-width:768px) and (max-width:1920px) {
 
 :root{
-    --cor-de-fundo:  #7fb1f7b6;
+    --cor-de-fundo:  #87f0fc9f;
     --cor-de-texto: #000000;
 }
 
@@ -11,4 +11,6 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--cor-de-texto);
     font-family: 'Playfair';
+}
+
 }
