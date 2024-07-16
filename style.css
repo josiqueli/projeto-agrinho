@@ -28,7 +28,7 @@ body{
     }
 
     .texto-sobreposto{
-        position: absolute;
+        position: relative;
         top: 15%;
         transform: translate(-50%, -50%);
         color: var(--cor-de-texto);
