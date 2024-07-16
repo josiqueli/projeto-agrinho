@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@media screen and (min-width:768px) and (max-width:1920px) {
+
+:root{
+    --cor-de-fundo:  #7fb1f7b6;
+    --cor-de-texto: #000000;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-de-texto);
+    font-family: 'Playfair';
+}
