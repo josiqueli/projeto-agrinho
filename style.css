@@ -35,16 +35,15 @@ body{
         margin-top: 5px;
     }
 
-    .container img{
-        display: inline-block;
-        width: 25%;
-        height: auto;
-        margin-top: 9px;
-    }
-
     .container{
         display: flex;
         gap: 9px;
+    }
+
+    .img{
+        width: 25%;
+        height: auto;
+        margin-top: 9px;
     }
 
     .texto {
