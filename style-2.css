@@ -56,7 +56,7 @@ header img{
 .item1{
     display: flex;
     width: 30%;
-    height: auto;
+    height: 6px;
    align-self: right;
 }
 }
