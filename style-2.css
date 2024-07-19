@@ -57,8 +57,4 @@ header img{
 .container.reverse{
     flex-direction: row-reverse;
 }
-
-.h2{
-    margin-left: 20%;
-}
 }
