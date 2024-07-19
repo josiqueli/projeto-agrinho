@@ -53,14 +53,14 @@ header img{
     margin-top: 25px;
 }
 
-.container img{
+.img2{
     display: inline-block;
     width: 30%;
     height: auto;
     align-self: right;
 }
 
-.texto {
+.texto2 {
     width: 100%;
     height: auto;
 }
