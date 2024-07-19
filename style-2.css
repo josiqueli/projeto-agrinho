@@ -35,16 +35,16 @@ header img{
     margin-top: 5px;
 }
 
+.container{
+    display: flex;
+    gap: 7px;
+}
+
 .container img{
     display: inline-block;
     width: 35%;
     height: auto;
     margin-top: 9px;
-}
-
-.container{
-    display: flex;
-    gap: 7px;
 }
 
 .texto {
