@@ -35,23 +35,17 @@ header img{
     margin-top: 5px;
 }
 
-.image-container {
+.container img{
+    display: inline-block;
+    width: 25%;
+    height: auto;
+    margin-top: 9px;
+}
+
+.container{
     display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .image-container img {
-    width: 50%; /* adjust the width to your liking */
-    margin: 10px; /* add some margin for spacing */
-  }
-  
-  .image-container img:nth-child(odd) {
-    float: left;
-  }
-  
-  .image-container img:nth-child(even) {
-    float: right;
-  }
+    gap: 7px;
+}
 
 .texto {
     width: 50%;
