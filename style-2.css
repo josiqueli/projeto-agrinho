@@ -53,15 +53,16 @@ header img{
     margin-top: 25px;
 }
 
-.imagem-container{
-    display: flex;
+.container img{
+    display: inline-block;
     width: 30%;
     height: auto;
-    align-self: right;
+    margin-top: 25px;
 }
 
-.texto2 {
+.texto {
     width: 100%;
     height: auto;
+    margin-top: 25px;
 }
 }
