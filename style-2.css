@@ -38,7 +38,7 @@ header img{
 .container{
     display: flex;
     gap: 7px;
-    flex-direction: row-reverse;
+    flex-direction: row;
 }
 
 .container img{
@@ -52,5 +52,9 @@ header img{
     width: 100%;
     height: auto;
     margin-top: 25px;
+}
+
+.container.reverse{
+    flex-direction: row-reverse;
 }
 }
