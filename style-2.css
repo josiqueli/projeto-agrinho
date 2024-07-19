@@ -44,7 +44,7 @@ header img{
 
 .container{
     display: flex;
-    gap: 2px;
+    gap: 7px;
 }
 
 .texto {
