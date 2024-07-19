@@ -56,7 +56,7 @@ header img{
 
 .container.reverse{
     flex-direction: row-reverse;
-    display: inline-block;
+    display: flex;
     width: 30%;
     height: auto;
 }
