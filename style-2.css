@@ -38,6 +38,7 @@ header img{
 .container{
     display: flex;
     gap: 7px;
+    flex-direction: row-reverse;
 }
 
 .container img{
@@ -51,12 +52,5 @@ header img{
     width: 100%;
     height: auto;
     margin-top: 25px;
-}
-
-.item1{
-    display: flex;
-    width: 30%;
-    height: 6px;
-   align-self: right;
 }
 }
