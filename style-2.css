@@ -22,7 +22,7 @@ header {
 
 header img{
     width: 100%;
-    height: ;
+    height: auto;
     object-fit: cover;
     margin: 0%;
 }
