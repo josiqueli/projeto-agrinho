@@ -47,20 +47,8 @@ header img{
     gap: 9px;
 }
 
-.img1{
-    align-items: left;
-}
-
-.img2 {
-    align-items: right;
-}
-
-.img3{
-    align-items: left;
-}
-
-.img4{
-    align-items: right;
+.item{
+    width: 25%;
 }
 .texto {
     width: 100%;
