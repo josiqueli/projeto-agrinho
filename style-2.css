@@ -50,15 +50,11 @@ header img{
     flex-direction: row-reverse;
 }
 
-h3{
-    align-items: center;
-    justify-content: center;
-}
 
 button{
     width: 187px;
     height: 40px;
-    padding: 10px 20px;
+    padding: 50px 30px;
     margin: 10px;
     display: inline-block;
 }
