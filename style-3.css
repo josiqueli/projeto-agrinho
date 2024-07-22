@@ -27,4 +27,27 @@ header img{
     margin: 0%;
 }
 
+.container{
+    display: flex;
+    gap: 7px;
+    flex-direction: row;
+}
+
+.container img{
+    display: inline-block;
+    width: 30%;
+    height: auto;
+    margin-top: 25px;
+}
+
+.texto {
+    width: 100%;
+    height: auto;
+    margin-top: 25px;
+}
+
+.container.reverse{
+    flex-direction: row-reverse;
+}
+
 }
