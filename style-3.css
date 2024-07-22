@@ -50,4 +50,10 @@ header img{
     flex-direction: row-reverse;
 }
 
+.highlight {
+    background-color: var(--cor-de-fundo);
+    padding: 10px; 
+    border-radius: 5px; 
+  }
+
 }
