@@ -53,9 +53,10 @@ body{
     }
    
     button{
-        width: 50px;
+        width: 187px;
         height: 40px;
-        align-self: center;
+        padding: 10px 20px;
+        margin: 10px;
         display: inline-block;
     }
 
