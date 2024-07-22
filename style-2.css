@@ -27,14 +27,6 @@ header img{
     margin: 0%;
 }
 
-.h1 {
-    text-align: left;
-    width: 100%;
-    font-size: 32px;
-    font-family: 'Playfair';
-    margin-top: 5px;
-}
-
 .container{
     display: flex;
     gap: 7px;
