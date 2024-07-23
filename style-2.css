@@ -5,6 +5,7 @@
 :root{
     --cor-de-fundo:  #87f0fc9f;
     --cor-de-texto: #000000;
+    --cor-botão: #83a393;
 }
 
 body{
@@ -57,5 +58,6 @@ button{
     padding: 10px 20px;
     margin-left: 250px;
     display: inline-block;
+    color: var(--cor-botão);
 }
 }
