@@ -58,6 +58,6 @@ button{
     padding: 10px 20px;
     margin-left: 250px;
     display: inline-block;
-    color: var(--cor-botão);
+    background-color: var(--cor-botão);
 }
 }
