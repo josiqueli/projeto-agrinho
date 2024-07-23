@@ -59,7 +59,7 @@ body{
         padding: 10px 20px;
         margin: 10px;
         display: inline-block;
-        color: var(--cor-botão);
+        background-color: var(--cor-botão);
     }
 
     }
