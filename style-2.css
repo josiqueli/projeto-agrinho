@@ -60,4 +60,8 @@ button{
     display: inline-block;
     background-color: var(--cor-botão);
 }
+
+.h3{
+    align-items: center;
+}
 }
