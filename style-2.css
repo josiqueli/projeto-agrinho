@@ -56,7 +56,7 @@ button{
     width: 187px;
     height: 40px;
     padding: 10px 20px;
-    margin-left: 500px;
+    margin-left: 450px;
     display: inline-block;
     background-color: var(--cor-botão);
 }
