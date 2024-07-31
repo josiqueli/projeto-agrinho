@@ -61,7 +61,7 @@ body{
         margin: 10px;
         display: inline-block;
         background-color: var(--cor-botão);
-        cursor: pointer;
+        cursor: alias;
     }
     
     button:hover {
