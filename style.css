@@ -54,6 +54,10 @@ body{
         height: 100px;
     }
    
+    h2{
+        cursor: alias;
+    }
+    
     button{
         width: 187px;
         height: 40px;
