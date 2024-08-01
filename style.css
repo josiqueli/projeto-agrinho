@@ -58,6 +58,7 @@ body{
         width: 187px;
         height: 40px;
         padding: 10px 20px;
+        margin-top: auto;
         margin-left: 379px;
         display: inline-block;
         background-color: var(--cor-botão);
