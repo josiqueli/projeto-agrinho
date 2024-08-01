@@ -65,10 +65,6 @@ body{
     
     button:hover {
         background-color: var(--cor-secundária);
-       }
-
-    link{
-        cursor: alias;
     }
 
     }
